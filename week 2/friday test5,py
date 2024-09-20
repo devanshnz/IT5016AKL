@@ -1,0 +1,6 @@
+"""
+Author= Devansh
+"""
+text="....Devansh....uppal....Devansh...."
+r=text.strip('.Devansh')
+print(r)
